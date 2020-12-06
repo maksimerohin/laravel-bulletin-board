@@ -2,6 +2,7 @@
 /node_modules
 /public/hot
 /public/storage
+/public/Cweb-projectslaravel-bulletin-boardstoragelogs
 /storage/*.key
 /storage/docker
 /vendor
